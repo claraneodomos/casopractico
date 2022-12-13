@@ -12,11 +12,11 @@ Cualquier instrucción necesaria para la ejecución del programa deberá de esta
 
 Para superar el caso práctico de esta posición, deberás hacer lo siguiente:
 
-1. En este repositorio hay un archivo de Excel llamado INPUT.xlsx.
+1. Adjunto al mismo email hay un archivo de Excel llamado INPUT.xlsx.
    - Debes utilizar Python para convertir el contenido del archivo a JSON.
    - Puedes utilizar librerías para ello, por ejemplo OpenPyXl.
 2. Una vez convertido, nos gustaría que calculases el porcentaje de descuento de la compra con respecto al precio de publicación.
-   - Por ejemplo si un inmueble cuesta 1.000.000 y lo compramos por 900.000 contaríamos con un porcentaje de descuento del 10%.
+   - Por ejemplo si un inmueble cuesta 1.000.000 y lo compramos por 900.000 contaríamos con un porcentaje del 10%.
 3. También queremos calcular el ROI y retorno de la operación.
    - Return of Investment, si necesitas saber como calcular este indice, puedes consultar:
      - https://www.investopedia.com/terms/r/returnoninvestment.asp
@@ -26,12 +26,12 @@ Para superar el caso práctico de esta posición, deberás hacer lo siguiente:
    - Deberás añadir el retorno de operación calculado en el paso 3 (retorno).
    - Deberás añadir el retorno de operación calculado en el paso 3 (ROI).
 5. Recuerda comentar el código y seguir las buenas prácticas.
-   - También ten en cuenta que el testeo nunca está de más.
+   - Recuerda que el testeo nunca está de más.
 6. ¿Qué conclusiones sacas de los activos analizados?
 
 ## La entrega
-    
-Para realizar la entrega de este ejercicio sirve con que nos pases el enlace al repositorio privado de GitHub que hayas usado durante la prueba, y nos des acceso con este usuario: @claraneodomos
+
+Para realizar la entrega de este ejercicio sirve con que nos pases el enlace al repositorio privado de GitHub que hayas usado durante la prueba, y nos des acceso con este usuario:
 
 Tienes 4 horas para resolverlo y enviárnoslo de vuelta.
 
